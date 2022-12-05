@@ -1,0 +1,73 @@
+#body{
+    border: 5px solid black;
+    margin: 200px;
+
+}
+h1{
+    text-align: center;
+    /* border: 2px solid black; */
+    padding-top: 25px;
+}
+p{
+    text-align: center;
+    font-size: large;
+}
+
+#form{
+display: grid;
+justify-content:center;
+
+}
+
+form{
+    position: absolute;
+    margin-left: 20%;
+    margin-top: -25%;
+ padding: 25px;
+
+}
+
+input{
+    border: 2px solid black;
+    /* position: absolute; */
+    /* margin-left: 50%; */
+}
+
+#mini{
+    position: relative;
+    border :2px solid black;
+    margin: 50px;
+    height: 525px;
+}
+
+#card{
+    display: inline;
+}
+#para{
+    width: 175px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 25px;
+    margin-top: 50px;
+}
+
+#p{
+    width: 100px;
+    height: 125px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 30px;
+    padding: 25px;
+    padding-top: 40px;
+}
+
+label{
+   display: flex;
+   /* position: relative;; */
+   flex-wrap: nowrap;
+   display: contents;
+  /* background-color: aqua; */
+  /* margin-left: 100%; */
+ 
+  
+}
